@@ -1,6 +1,6 @@
 Rules
 
-1. Checkout branch Midterm-Exam-<your-id>-<your-nam>
+1. Checkout branch `MidtermExam-[your-id]-[your-name]`
 2. Create pull request
 
 
